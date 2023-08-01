@@ -1,0 +1,18 @@
+*{
+  background-color: lightblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.link{
+  text-decoration: none;
+}
+
+#choco{
+  background-color: darkred;
+  color: whitesmoke;
+}
+
+#piri{
+  background-color: red;
+  color: whitesmoke;
+}

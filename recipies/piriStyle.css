@@ -1,0 +1,12 @@
+*{
+  background-color: lightpink;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.image{
+  width: 300px;
+}
+
+figcaption{
+  font-style: italic;
+}
